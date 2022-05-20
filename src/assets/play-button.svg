@@ -1,0 +1,33 @@
+<svg id="Play_Button" data-name="Play Button" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Round" cx="40" cy="40" r="40" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Triangle" d="M0,24V0L15.385,11.765Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icons_Round" data-name="Icons/Round" transform="translate(0)">
+    <rect id="Icons_Round_background" data-name="Icons/Round background" width="80" height="80" transform="translate(0 0)" fill="none"/>
+    <g id="Group_9" data-name="Group 9">
+      <circle id="Round-2" data-name="Round" cx="40" cy="40" r="40" fill="none"/>
+      <g id="Mask_Group_10" data-name="Mask Group 10" clip-path="url(#clip-path)">
+        <g id="_color" data-name="🎨 color" transform="translate(0 0)">
+          <rect id="Color_Secondary_background" data-name="Color/Secondary background" width="80" height="80" fill="none"/>
+          <rect id="Rectangle" width="80" height="80" fill="#ffd86c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Icons_Triangle" data-name="Icons/Triangle" transform="translate(29 28)">
+    <rect id="Icons_Triangle_background" data-name="Icons/Triangle background" width="24" height="24" fill="none"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(4.308 0)">
+      <path id="Triangle-2" data-name="Triangle" d="M0,24V0L15.385,11.765Z" fill="none"/>
+      <g id="Mask_Group_11" data-name="Mask Group 11" clip-path="url(#clip-path-2)">
+        <g id="_color-2" data-name="🎨 color" transform="translate(-4.308 0)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="24" height="24"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
